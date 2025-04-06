@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Intel Core i11-16900KFSPE",
+    "cores": 0.5,
+    "threads": 0,
+    "base_clock": 0.2,
+    "boost_clock": 0.1,
+    "tdp": 1
+  },
+]
