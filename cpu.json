@@ -16,7 +16,9 @@
     "cbr23sc": 2400,
     "cbr23mc": 42000,
     "gb6sc": 3400,
-    "gb6mc": 24000
+    "gb6mc": 24000,
+    "rating": 4.25,
+    "reviews": "Intel Core i9-14900KS is considered a good processor. \n Its lower ratings may stem from stability issues found in early 14th and 13th generation models. \n However, newer revisions have addressed these problems and are now stable."
   },
 
   {
@@ -36,6 +38,8 @@
     "cbr23sc": 2200,
     "cbr23mc": 41000,
     "gb6sc": 3500,
-    "gb6mc": 23000
+    "gb6mc": 23000,
+    "rating": 4.7,
+    "reviews": "AMD Ryzen 9 9950X3D is widely regarded as a very good processor. \n According to reviews, it has no major flaws or stability issues."
   }
 ]
