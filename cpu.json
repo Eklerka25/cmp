@@ -12,7 +12,11 @@
     "tdp": 150,
     "arch": "Raptor Lake Refresh",
     "socket": "LGA 1700",
-    "ram": 192
+    "ram": 192,
+    "cbr23sc": 2400,
+    "cbr23mc": 42000,
+    "gb6sc": 3400,
+    "gb6mc": 24000
   },
 
   {
@@ -28,6 +32,10 @@
     "tdp": 170,
     "arch": "Zen 5",
     "socket": "AM5",
-    "ram": 192
+    "ram": 192,
+    "cbr23sc": 2200,
+    "cbr23mc": 41000,
+    "gb6sc": 3500,
+    "gb6mc": 23000
   }
 ]
