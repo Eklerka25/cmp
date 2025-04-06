@@ -6,5 +6,14 @@
     "base_clock": 0.2,
     "boost_clock": 0.1,
     "tdp": 1
+  },
+
+  {
+    "name": "Ryzen 9 9950X3D",
+    "cores": 0.5,
+    "threads": 0,
+    "base_clock": 0.2,
+    "boost_clock": 0.1,
+    "tdp": 1
   }
 ]
