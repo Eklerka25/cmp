@@ -13,8 +13,7 @@
     "arch": "Raptor Lake Refresh",
     "socket": "LGA 1700",
     "ram": 192
-  }
-,
+  },
 
   {
     "name": "AMD Ryzen 9 9950X3D",
