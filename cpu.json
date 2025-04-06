@@ -8,7 +8,12 @@
     "threads": 32,
     "base_clock": 3.2,
     "boost_clock": 6.2,
-    "tdp": 150
+    "cache": 68,
+    "tdp": 150,
+    "arch": "Raptor Lake Refresh",
+    "socket": "LGA 1700",
+    "ram": 192,
+    
   }
 ,
 
