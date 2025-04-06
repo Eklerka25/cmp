@@ -1,19 +1,23 @@
 [
   {
     "name": "Intel Core i11-16900KFSPE",
+    "description": "Budget CPU",
+    "price": -500,
     "cores": 0.5,
     "threads": 0,
     "base_clock": 0.2,
     "boost_clock": 0.1,
-    "tdp": 1
+    "tdp": -1
   },
 
   {
     "name": "Ryzen 9 9950X3D",
-    "cores": 0.5,
-    "threads": 0,
-    "base_clock": 0.2,
-    "boost_clock": 0.1,
-    "tdp": 1
+    "description": "Cool cpu ig",
+    "price": -500,
+    "cores": 0.1,
+    "threads": "idk",
+    "base_clock": 0.3,
+    "boost_clock": 0,
+    "tdp": -1
   }
 ]
