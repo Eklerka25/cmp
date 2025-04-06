@@ -1,6 +1,7 @@
 [
   {
     "name": "Intel Core i9-14900KS",
+    "brand": "intel",
     "description": "High-performance intel desktop processor",
     "price": 689,
     "cores": 24,
@@ -13,6 +14,7 @@
 
   {
     "name": "AMD Ryzen 9 9950X3D",
+    "brand": "AMD",
     "description": "High-performance AMD desktop processor with 3D V-Cache technology",
     "price": 700,
     "cores": 16,
