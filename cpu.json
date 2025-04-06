@@ -1,23 +1,24 @@
 [
   {
-    "name": "Intel Core i11-16900KFSPE",
-    "description": "Budget CPU",
-    "price": -500,
-    "cores": 0.5,
-    "threads": 0,
-    "base_clock": 0.2,
-    "boost_clock": 0.1,
-    "tdp": -1
-  },
+    "name": "Intel Core i9-14900KS",
+    "description": "High-performance intel desktop processor",
+    "price": 689,
+    "cores": 24,
+    "threads": 32,
+    "base_clock": 3.2,
+    "boost_clock": 6.2,
+    "tdp": 150
+  }
+,
 
   {
-    "name": "Ryzen 9 9950X3D",
-    "description": "Cool cpu ig",
-    "price": -500,
-    "cores": 0.1,
-    "threads": "idk",
-    "base_clock": 0.3,
-    "boost_clock": 0,
-    "tdp": -1
+    "name": "AMD Ryzen 9 9950X3D",
+    "description": "High-performance AMD desktop processor with 3D V-Cache technology",
+    "price": 700,
+    "cores": 16,
+    "threads": 32,
+    "base_clock": 4.3,
+    "boost_clock": 5.7,
+    "tdp": 170
   }
 ]
