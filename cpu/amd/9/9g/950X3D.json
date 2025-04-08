@@ -1,0 +1,21 @@
+{
+    "name": "AMD Ryzen 9 9950X3D",
+    "brand": "AMD",
+    "description": "AMD's current flagship for the desktop market",
+    "price": 700,
+    "cores": 16,
+    "threads": 32,
+    "base_clock": 4.3,
+    "boost_clock": 5.7,
+    "cache": 144,
+    "tdp": 170,
+    "arch": "Zen 5",
+    "socket": "AM5",
+    "ram": 192,
+    "cbr23sc": 2200,
+    "cbr23mc": 41000,
+    "gb6sc": 3500,
+    "gb6mc": 23000,
+    "rating": 4.7,
+    "reviews": "AMD Ryzen 9 9950X3D is widely regarded as a very good processor. \n According to reviews, it has no major flaws or stability issues."
+}
