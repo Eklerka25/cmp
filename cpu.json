@@ -1,6 +1,6 @@
 {
   "main": {
     "Intel Core i9-14900KS": ["cpu/intel/i9/14g/900ks.json", "i"],
-    "AMD Ryzen 9 9950X3D": ["cpu/amd/9/9g/950X3D", "a"]
+    "AMD Ryzen 9 9950X3D": ["cpu/amd/9/9g/950X3D.json", "a"]
   }
 }
