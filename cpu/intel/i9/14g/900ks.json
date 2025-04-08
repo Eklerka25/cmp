@@ -1,0 +1,21 @@
+{
+    "name": "Intel Core i9-14900KS",
+    "brand": "intel",
+    "description": "Intel's current flagship for the desktop market",
+    "price": 689,
+    "cores": 24,
+    "threads": 32,
+    "base_clock": 3.2,
+    "boost_clock": 6.2,
+    "cache": 68,
+    "tdp": 150,
+    "arch": "Raptor Lake Refresh",
+    "socket": "LGA 1700",
+    "ram": 192,
+    "cbr23sc": 2400,
+    "cbr23mc": 42000,
+    "gb6sc": 3400,
+    "gb6mc": 24000,
+    "rating": 4.25,
+    "reviews": "Intel Core i9-14900KS is considered a good processor. \n Its lower ratings may stem from stability issues found in early 14th and 13th generation models. \n However, newer revisions have addressed these problems and are now stable."
+}
