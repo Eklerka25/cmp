@@ -1,3 +1,5 @@
 {
-  "Intel Core i9-14900KS": ["cpu/intel/i9/14g/900ks.json"]
+  "main": {
+    "Intel Core i9-14900KS": ["cpu/intel/i9/14g/900ks.json"]
+  }
 }
